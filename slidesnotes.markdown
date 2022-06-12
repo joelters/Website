@@ -9,4 +9,4 @@ permalink: /notesandslides/
 
 # Slides
 
-[U-statistics]({{ site.url }}/assets/slides_ustats.pdf)
+[U-statistics]({{ https://github.com/joelters/website/blob/gh-pages/assets }}slides_ustats.pdf)
