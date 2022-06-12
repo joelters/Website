@@ -10,3 +10,5 @@ permalink: /notesandslides/
 # Slides
 
 [U-statistics]({{ site.url }}/assets//slides_ustats.pdf)
+
+ {% pdf "/assets//slides_ustats.pdf" %}

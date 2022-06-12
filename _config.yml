@@ -29,8 +29,9 @@ github_username:  joelters
 theme: minima
 #remote_theme: minima
 
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-pdf-embed
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
