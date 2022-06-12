@@ -20,7 +20,8 @@
 
 title: Joël Terschuur
 email: jrobert@eco.uc3m.es
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Website" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Joel_Terschuur
 github_username:  joelters
 
