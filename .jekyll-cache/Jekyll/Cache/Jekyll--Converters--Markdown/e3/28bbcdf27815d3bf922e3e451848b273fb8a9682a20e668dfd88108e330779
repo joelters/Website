@@ -1,0 +1,12 @@
+I"r<h1 id="notes">Notes</h1>
+
+<p><a href="http://localhost:4000/assets/notes_prob.pdf">Probability Theory</a>
+<a href="https://raw.githubusercontent.com/joelters/website/gh-pages/assets/notes_prob.pdf">Probability Theory</a></p>
+
+<h1 id="slides">Slides</h1>
+
+<p><a href="http://localhost:4000/assets//slides_ustats.pdf">U-statistics</a></p>
+
+<style> .pdf-embed-wrap-26de31c4-feb4-41b2-914a-d88dc9940304 { display:flex; flex-direction: column; width: 100%; height: 650px; } .pdf-embed-container-26de31c4-feb4-41b2-914a-d88dc9940304 { height: 100%; } .pdf-link-26de31c4-feb4-41b2-914a-d88dc9940304 { background-color: white; text-align: center; border-style: solid; } .pdf-embed-container-26de31c4-feb4-41b2-914a-d88dc9940304 iframe { width: 100%; height: 100%; } </style>
+<div class="pdf-embed-wrap-26de31c4-feb4-41b2-914a-d88dc9940304"> <div class="pdf-link-26de31c4-feb4-41b2-914a-d88dc9940304"> <a href="/assets//slides_ustats.pdf" target="_blank">View PDF</a> </div> <div class="pdf-embed-container-26de31c4-feb4-41b2-914a-d88dc9940304"> <iframe src="/assets//slides_ustats.pdf" frameborder="0" allowfullscreen=""></iframe> </div> </div>
+:ET

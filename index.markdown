@@ -15,4 +15,4 @@ My research interests are:
   * Inequality of Opportunity
   * Empirical Welfare Maximization
 
-[CV]({{ site.url }}/assets/cv.pdf)
+[CV](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/cv.pdf)
