@@ -2,7 +2,8 @@
 layout: page
 title: Research
 permalink: /research/
+sitemap: true
 ---
 
-Debiased Semiparametric U-statistics: Machine Learning Inference on Inequality of Opportunity: with 
+Debiased Semiparametric U-statistics: Machine Learning Inference on Inequality of Opportunity: with
 [Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home?authuser=0)

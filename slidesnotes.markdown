@@ -2,6 +2,7 @@
 layout: page
 title: Notes and Slides
 permalink: /notesandslides/
+sitemap: true
 ---
 # Notes
 

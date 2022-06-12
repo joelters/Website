@@ -30,7 +30,6 @@ theme: minima
 #remote_theme: minima
 
 plugins:
-  - jekyll-pdf-embed
   - jekyll-feed
   - jekyll-sitemap
 
