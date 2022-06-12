@@ -14,3 +14,5 @@ My research interests are:
   * Machine Learning
   * Inequality of Opportunity
   * Empirical Welfare Maximization
+
+[CV]({{ site.url }}/assets/cv.pdf)
