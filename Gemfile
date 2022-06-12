@@ -35,3 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.7"
 gem "jekyll-pdf-embed"
 #gem 'jekyll-include-cache'
+gem "jekyll-sitemap"
