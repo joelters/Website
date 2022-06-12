@@ -4,4 +4,4 @@ title: Notes and Slides
 permalink: /notesandslides/
 ---
 
-[Probability Theory](notes_prob.pdf)
+[Probability Theory](https://github.com/joelters/website/blob/gh-pages/notes_prob.pdf)
