@@ -20,7 +20,7 @@
 
 title: Joël Terschuur
 email: jrobert@eco.uc3m.es
-#baseurl: "Website" # the subpath of your site, e.g. /blog
+#baseurl: "\Website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Joel_Terschuur
 github_username:  joelters
@@ -35,6 +35,10 @@ theme: minima
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
+
+include:
+ - research.markdown
+ - slidesnotes.markdown
 #
 # exclude:
 #   - .sass-cache/

@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img style="float: right;" src="main.jpg">
+<img style="float: right;" src="main_vvsmall.jpg">
 
 I am a PhD student at Universidad Carlos III de Madrid.
 

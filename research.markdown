@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /about/
+permalink: /research/
 ---
 
 [Debiased Semiparametric U-statistics: Machine Learning Inference on Inequality of Opportunity](www.google.com): with 

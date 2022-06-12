@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes and Slides
-permalink: /about/
+permalink: /notesandslides/
 ---
 
 [Probability Theory](notes_prob.pdf)
