@@ -13,4 +13,4 @@ My research interests are:
   * Semi-parametric Inference
   * Machine Learning
   * Inequality of Opportunity
-  * Fair algorithms
+  * Empirical Welfare Maximization

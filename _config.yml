@@ -36,9 +36,6 @@ theme: minima
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 
-include:
- - research.markdown
- - slidesnotes.markdown
 #
 # exclude:
 #   - .sass-cache/
