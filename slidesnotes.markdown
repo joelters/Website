@@ -5,8 +5,8 @@ permalink: /notesandslides/
 ---
 # Notes
 
-[Probability Theory]({{ site.url }}/Website/assets/notes_prob.pdf)
+[Probability Theory]({{ site.url }}/assets/notes_prob.pdf)
 
 # Slides
 
-[U-statistics]({{ https://github.com/joelters/website/blob/gh-pages/assets }}/slides_ustats.pdf)
+[U-statistics]({{ site.url }}/assets//slides_ustats.pdf)
