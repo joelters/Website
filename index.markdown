@@ -17,4 +17,5 @@ My research interests are:
   * Empirical Welfare Maximization
 
 [CV](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/cv.pdf)
+
 [Google Scholar](https://scholar.google.com/citations?user=NDAc42oAAAAJ&hl=es&oi=ao)
