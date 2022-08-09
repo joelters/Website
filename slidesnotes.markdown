@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes and Slides
+title: Notes, Slides and Tutorials
 permalink: /notesandslides/
 sitemap: true
 ---
@@ -11,3 +11,7 @@ sitemap: true
 # Slides
 
 [U-statistics](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/slides_ustats.pdf)
+
+# Tutorials
+
+[R and Econometrics](https://raw.githack.com/joelters/home/gh-pages/assets/Rmetrics_tutorial.html)
