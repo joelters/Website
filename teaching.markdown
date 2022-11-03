@@ -5,16 +5,14 @@ permalink: /teaching/
 sitemap: true
 ---
 
-#Teaching Assistant
-
-## Undergraduate
+## Undergraduate TA
 
   - Quantitative Microeconomics (Fall 2019)
   - Introduction to Mathematics for Economics (Fall 2019)
   - Econometrics (Spring 2020,2021)
   - Mathematics for Economics II (Spring 2022)
 
-## Graduate
+## Graduate TA
 
   - Introduction to statistics (Fall 2020, 2021), MRes in Economic Analysis UC3M
   - Econometrics I (Fall 2020, 2021, 2022), MRes in Economic Analysis UC3M
