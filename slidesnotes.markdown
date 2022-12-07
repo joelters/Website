@@ -4,6 +4,9 @@ title: Notes, Slides and Tutorials
 permalink: /notesandslides/
 sitemap: true
 ---
+
+Here I upload notes, slides and tutorials. Some are still in progress
+
 # Notes
 
 [Probability Theory](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/notes_prob.pdf)
