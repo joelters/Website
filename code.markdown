@@ -15,7 +15,7 @@ the link and scroll down to see a description.
    Extreme Gradient Boosting (XGB), Catboosting (CB) and a SuperLearner
    combining all of these learners.
 
-  - [ineqopp](https://github.com/joelters/ineqopp):  goal of ineqopp is to
+  - [ineqopp](https://github.com/joelters/ineqopp): the goal of ineqopp is to
    provide estimates  and tests for Inequality of Opportunity (IOp) using
    several methods. Debiased IOp estimates can be computed using any Machine
    Learner among: Lasso, Ridge, Random Forest, Conditional Inferest Forest,
