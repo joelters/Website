@@ -5,6 +5,8 @@ permalink: /teaching/
 sitemap: true
 ---
 
+<img style="float: right;" src="teaching.jpg">
+
 ## Undergraduate TA
 
   - Quantitative Microeconomics (Fall 2019)
