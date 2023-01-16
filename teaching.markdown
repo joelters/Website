@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 sitemap: true
 ---
-<img style="float: right;" src="teaching250.jpg">
+![image](teaching250.jpg)
 
 ## Undergraduate TA
 
