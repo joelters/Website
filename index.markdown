@@ -7,7 +7,8 @@ sitemap: true
 ---
 <img style="float: right;" src="main250.jpg">
 
-I am a PhD student at Universidad Carlos III de Madrid.
+I am a PhD student at Universidad Carlos III de Madrid. I am currently visiting
+Brown University.
 
 My research interests are:
 
@@ -15,6 +16,7 @@ My research interests are:
   * Machine Learning
   * Inequality of Opportunity
   * Empirical Welfare Maximization
+  * U-statistics and U-processes
 
 [CV](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/cv.pdf)
 
