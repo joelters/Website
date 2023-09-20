@@ -7,8 +7,8 @@ sitemap: true
 ---
 <img style="float: right;" src="main250.jpg">
 
-I am a PhD student at Universidad Carlos III de Madrid. I am currently visiting
-Brown University.
+I am a PhD student at Universidad Carlos III de Madrid. I am on the job market
+this year 2023-2024.
 
 My research interests are:
 
