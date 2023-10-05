@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Code
-permalink: /code/
+title: R packages
+permalink: /rpackages/
 sitemap: true
 ---
 
