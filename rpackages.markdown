@@ -1,11 +1,11 @@
 ---
 layout: page
-title: R packages
+title: Code
 permalink: /code/
 sitemap: true
 ---
 
-Here I upload R packages and code for published papers. For R packages click on
+Here I upload R packages and code. For R packages click on
 the link and scroll down to see a description.
 
 # R packages
