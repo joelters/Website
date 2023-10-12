@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code
+title: R packages
 permalink: /code/
 sitemap: true
 ---
