@@ -18,7 +18,7 @@ sitemap: true
 # Working Papers
 
   - [Machine Learning Inference on Inequality of Opportunity](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/ML_IOp.pdf): with
-[Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home?authuser=0)
+[Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home?authuser=0), R&R at Review of Economic Studies.
     * **Abstract:** Equality of opportunity has emerged as an important ideal of distributive justice. Empirically, Inequality of Opportunity (IOp) is measured in two steps: first, an outcome (e.g., income) is predicted given individual circumstances; and second, an inequality index (e.g., Gini) of the predictions is computed. Machine Learning (ML) methods are tremendously useful in the first step. However, they can cause sizable biases in IOp since the bias-variance trade-off allows the bias to creep in the second step. We propose a simple debiased IOp estimator robust to such ML biases and provide the first valid inferential theory for IOp. We demonstrate improved performance in simulations and report the first unbiased measures of income IOp in Europe. Mother's education and father's occupation are the circumstances that explain the most. Plug-in estimators are very sensitive to the ML algorithm, while debiased IOp estimators are robust. These results are extended to a general U-statistics setting. [Cite](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/cite_ML_IOp.txt).
 
   - [Educational Inequality of Opportunity and Mobility in Europe](https://raw.githubusercontent.com/joelters/website/gh-pages/assets/IOp_educ.pdf)
