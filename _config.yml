@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Joël Terschuur
-email: jrobert@eco.uc3m.es
+email: joel.terschuur@unige.ch
 url: "https://joelters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /home # the subpath of your site, e.g. /blog
 twitter_username: Joel_Terschuur
